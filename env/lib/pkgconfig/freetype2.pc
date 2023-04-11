@@ -1,0 +1,14 @@
+prefix=/Users/istiakmorsalin/iOffice/embedding-search/env
+exec_prefix=/Users/istiakmorsalin/iOffice/embedding-search/env
+libdir=/Users/istiakmorsalin/iOffice/embedding-search/env/lib
+includedir=/Users/istiakmorsalin/iOffice/embedding-search/env/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 24.3.18
+Requires: 
+Requires.private: 
+Libs: -L/Users/istiakmorsalin/iOffice/embedding-search/env/lib -lfreetype
+Libs.private: -lz -L/Users/istiakmorsalin/iOffice/embedding-search/env/lib -lpng16 -lz
+Cflags: -I${includedir}/freetype2

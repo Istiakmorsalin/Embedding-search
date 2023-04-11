@@ -1,0 +1,222 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "python >=3.11,<3.12.0a0",
+    "webencodings >=0.4"
+  ],
+  "extracted_package_dir": "/Users/istiakmorsalin/miniconda3/pkgs/tinycss2-1.2.1-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/LICENSE",
+    "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/METADATA",
+    "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/RECORD",
+    "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/WHEEL",
+    "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/tinycss2/__init__.py",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/ast.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/bytes.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/color3.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/nth.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/parser.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/serializer.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/__pycache__/tokenizer.cpython-311.pyc",
+    "lib/python3.11/site-packages/tinycss2/ast.py",
+    "lib/python3.11/site-packages/tinycss2/bytes.py",
+    "lib/python3.11/site-packages/tinycss2/color3.py",
+    "lib/python3.11/site-packages/tinycss2/nth.py",
+    "lib/python3.11/site-packages/tinycss2/parser.py",
+    "lib/python3.11/site-packages/tinycss2/serializer.py",
+    "lib/python3.11/site-packages/tinycss2/tokenizer.py"
+  ],
+  "fn": "tinycss2-1.2.1-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "a04dbcd6095f6b8f3ad195a78d48b262",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/istiakmorsalin/miniconda3/pkgs/tinycss2-1.2.1-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "f8b9cc1a9205bdc40818a441ae6c46cd",
+  "name": "tinycss2",
+  "package_tarball_full_path": "/Users/istiakmorsalin/miniconda3/pkgs/tinycss2-1.2.1-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "6b94acee20ec9f2709333134f3ba70322535fb420af0ce8c1455d9cbe297f1d5",
+        "sha256_in_prefix": "6b94acee20ec9f2709333134f3ba70322535fb420af0ce8c1455d9cbe297f1d5",
+        "size_in_bytes": 1534
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "7ff9ef96ed4ca9ec4edd5176f4c97f3963186956b37757ac9a40c5899066f315",
+        "sha256_in_prefix": "7ff9ef96ed4ca9ec4edd5176f4c97f3963186956b37757ac9a40c5899066f315",
+        "size_in_bytes": 2982
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e18f6521f3a143f6cee62b06fc8b08e6734459d1ef431d8419fc59360b609205",
+        "sha256_in_prefix": "e18f6521f3a143f6cee62b06fc8b08e6734459d1ef431d8419fc59360b609205",
+        "size_in_bytes": 1568
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "a3e43613cb3b04a902275102dae41d6b2999555bb6694b757bcb934c5a731d5b",
+        "sha256_in_prefix": "a3e43613cb3b04a902275102dae41d6b2999555bb6694b757bcb934c5a731d5b",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2-1.2.1.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "f64d44ddc238c4624148fc2852250ad6f31a6ebeef94c27641211a5552603fa9",
+        "sha256_in_prefix": "f64d44ddc238c4624148fc2852250ad6f31a6ebeef94c27641211a5552603fa9",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0566d9f18d694b9fa52ad974afa852e50c6eb1021c38023bfee523a6320c9756",
+        "sha256_in_prefix": "0566d9f18d694b9fa52ad974afa852e50c6eb1021c38023bfee523a6320c9756",
+        "size_in_bytes": 580
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "f440f1509c081785ff3105e3ba66fb8dc3565d2cfee00d31fb64ea31ab111e78",
+        "sha256_in_prefix": "f440f1509c081785ff3105e3ba66fb8dc3565d2cfee00d31fb64ea31ab111e78",
+        "size_in_bytes": 952
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/ast.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "44f660f09f63f72fa436255bc8c085eca69836641d992832313395ce574feb44",
+        "sha256_in_prefix": "44f660f09f63f72fa436255bc8c085eca69836641d992832313395ce574feb44",
+        "size_in_bytes": 32796
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/bytes.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "24f348966f96bb94463a1901d6431b05b7e8fb00f7575b1768adcd7799c7537c",
+        "sha256_in_prefix": "24f348966f96bb94463a1901d6431b05b7e8fb00f7575b1768adcd7799c7537c",
+        "size_in_bytes": 5058
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/color3.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "35ad2ec5ca59114aa97f91b6fe71455296349d6d01411c2aaed18a465244ef92",
+        "sha256_in_prefix": "35ad2ec5ca59114aa97f91b6fe71455296349d6d01411c2aaed18a465244ef92",
+        "size_in_bytes": 14118
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/nth.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "bbc7221a2af9a53785040927ff786d19044d9675ba907a2a3474347f3d3594a8",
+        "sha256_in_prefix": "bbc7221a2af9a53785040927ff786d19044d9675ba907a2a3474347f3d3594a8",
+        "size_in_bytes": 4951
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/parser.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "dbb753b5aecc81c807717b7253edb776d302a0f8ce1344b0bd1fd118df0ab98e",
+        "sha256_in_prefix": "dbb753b5aecc81c807717b7253edb776d302a0f8ce1344b0bd1fd118df0ab98e",
+        "size_in_bytes": 15270
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/serializer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "43126ddff121dc4d6625c64af04179422db3463d3bd1c30b12e39a21feacdf3e",
+        "sha256_in_prefix": "43126ddff121dc4d6625c64af04179422db3463d3bd1c30b12e39a21feacdf3e",
+        "size_in_bytes": 7138
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/__pycache__/tokenizer.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "998cc392a92d7e134dfa8dfedfdc7ef802589273b8861ecfdfba6de004a7596f",
+        "sha256_in_prefix": "998cc392a92d7e134dfa8dfedfdc7ef802589273b8861ecfdfba6de004a7596f",
+        "size_in_bytes": 18358
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/ast.py",
+        "path_type": "hardlink",
+        "sha256": "086f46e6f2462fd049626739705000d69cc355b33d6e8d1a40b58cc78fd43722",
+        "sha256_in_prefix": "086f46e6f2462fd049626739705000d69cc355b33d6e8d1a40b58cc78fd43722",
+        "size_in_bytes": 23499
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/bytes.py",
+        "path_type": "hardlink",
+        "sha256": "3fef060f8fe3f066a9d98b324b15e5d6a075e930aa4b82ed2aba39538c077ac5",
+        "sha256_in_prefix": "3fef060f8fe3f066a9d98b324b15e5d6a075e930aa4b82ed2aba39538c077ac5",
+        "size_in_bytes": 4768
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/color3.py",
+        "path_type": "hardlink",
+        "sha256": "318f130bee4588b55ed8340437f3a579ce742af0c9539bde6f2f895bf4f837e0",
+        "sha256_in_prefix": "318f130bee4588b55ed8340437f3a579ce742af0c9539bde6f2f895bf4f837e0",
+        "size_in_bytes": 11182
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/nth.py",
+        "path_type": "hardlink",
+        "sha256": "eebad79a1b7257601094457ee3ca2420c1ff301ca5abb726772cf46e12c9a0ce",
+        "sha256_in_prefix": "eebad79a1b7257601094457ee3ca2420c1ff301ca5abb726772cf46e12c9a0ce",
+        "size_in_bytes": 3488
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/parser.py",
+        "path_type": "hardlink",
+        "sha256": "389694b7cfbd2aa2d275feec40fe1b8f4342d91e160c11ff0bd1107cd5b42fac",
+        "sha256_in_prefix": "389694b7cfbd2aa2d275feec40fe1b8f4342d91e160c11ff0bd1107cd5b42fac",
+        "size_in_bytes": 13759
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/serializer.py",
+        "path_type": "hardlink",
+        "sha256": "d40d68bceac14812c5123bae5985da751621a8d05b7b96a3f693adf519196038",
+        "sha256_in_prefix": "d40d68bceac14812c5123bae5985da751621a8d05b7b96a3f693adf519196038",
+        "size_in_bytes": 4215
+      },
+      {
+        "_path": "lib/python3.11/site-packages/tinycss2/tokenizer.py",
+        "path_type": "hardlink",
+        "sha256": "49fffcd4c9cb5535c801c165699014d57137c8c8a2bde7c9e9072ffd31506919",
+        "sha256_in_prefix": "49fffcd4c9cb5535c801c165699014d57137c8c8a2bde7c9e9072ffd31506919",
+        "size_in_bytes": 15383
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "d96ce5eb7da430d8e91c6c5dd84bbba9e34183a1b975db64459cdc6a1c61ac34",
+  "size": 49029,
+  "subdir": "osx-arm64",
+  "timestamp": 1677917499177,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/tinycss2-1.2.1-py311hca03da5_0.conda",
+  "version": "1.2.1"
+}
