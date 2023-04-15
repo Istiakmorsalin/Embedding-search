@@ -1,0 +1,278 @@
+{
+  "build": "py311hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "jupyter_server >=1.8,<3",
+    "python >=3.11,<3.12.0a0"
+  ],
+  "extracted_package_dir": "/Users/istiakmorsalin/miniconda3/pkgs/notebook-shim-0.2.2-py311hca03da5_0",
+  "features": "",
+  "files": [
+    "etc/jupyter/jupyter_server_config.d/notebook_shim.json",
+    "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/INSTALLER",
+    "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/METADATA",
+    "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/RECORD",
+    "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/REQUESTED",
+    "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/WHEEL",
+    "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/direct_url.json",
+    "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/licenses/LICENSE",
+    "lib/python3.11/site-packages/notebook_shim/__init__.py",
+    "lib/python3.11/site-packages/notebook_shim/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/__pycache__/_version.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/__pycache__/nbserver.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/__pycache__/shim.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/__pycache__/traits.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/_version.py",
+    "lib/python3.11/site-packages/notebook_shim/nbserver.py",
+    "lib/python3.11/site-packages/notebook_shim/shim.py",
+    "lib/python3.11/site-packages/notebook_shim/tests/__init__.py",
+    "lib/python3.11/site-packages/notebook_shim/tests/__pycache__/__init__.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/tests/__pycache__/mockextension.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/tests/__pycache__/test_extension.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/tests/confs/__pycache__/jupyter_my_ext_config.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/tests/confs/__pycache__/jupyter_notebook_config.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/tests/confs/__pycache__/jupyter_server_config.cpython-311.pyc",
+    "lib/python3.11/site-packages/notebook_shim/tests/confs/jupyter_my_ext_config.py",
+    "lib/python3.11/site-packages/notebook_shim/tests/confs/jupyter_notebook_config.py",
+    "lib/python3.11/site-packages/notebook_shim/tests/confs/jupyter_server_config.py",
+    "lib/python3.11/site-packages/notebook_shim/tests/mockextension.py",
+    "lib/python3.11/site-packages/notebook_shim/tests/test_extension.py",
+    "lib/python3.11/site-packages/notebook_shim/traits.py"
+  ],
+  "fn": "notebook-shim-0.2.2-py311hca03da5_0.conda",
+  "legacy_bz2_md5": "8cf0d35b014e1dfe2dec027dc9ffd80a",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/istiakmorsalin/miniconda3/pkgs/notebook-shim-0.2.2-py311hca03da5_0",
+    "type": 1
+  },
+  "md5": "e6485062879bad5d29c26016f0af097b",
+  "name": "notebook-shim",
+  "package_tarball_full_path": "/Users/istiakmorsalin/miniconda3/pkgs/notebook-shim-0.2.2-py311hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "etc/jupyter/jupyter_server_config.d/notebook_shim.json",
+        "path_type": "hardlink",
+        "sha256": "b75ff94669b4a06f17c5553397dab9722626f3b8d12ddd8d43e0866173b3eb3b",
+        "sha256_in_prefix": "b75ff94669b4a06f17c5553397dab9722626f3b8d12ddd8d43e0866173b3eb3b",
+        "size_in_bytes": 106
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "46c159174644c0e0d6330dffec00bcf5cd4c2daa608c4844154bf698dcfc4d5d",
+        "sha256_in_prefix": "46c159174644c0e0d6330dffec00bcf5cd4c2daa608c4844154bf698dcfc4d5d",
+        "size_in_bytes": 3963
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "a8c55043b49cc7972e28ca28fc7ca1635b8e78f19915fad2fd70e173fbcd4c5e",
+        "sha256_in_prefix": "a8c55043b49cc7972e28ca28fc7ca1635b8e78f19915fad2fd70e173fbcd4c5e",
+        "size_in_bytes": 2437
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "dc34a64b2604d520c444edbeac8dea51b315a2f06cefefa081cee6b9b39e9ac7",
+        "sha256_in_prefix": "dc34a64b2604d520c444edbeac8dea51b315a2f06cefefa081cee6b9b39e9ac7",
+        "size_in_bytes": 86
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "1adb5a36661e4f8548c55dae0b02c70a7dc595304d65731880eea4367a13385f",
+        "sha256_in_prefix": "1adb5a36661e4f8548c55dae0b02c70a7dc595304d65731880eea4367a13385f",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim-0.2.2.dist-info/licenses/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "628c1d4a9f10c2f61355c9212f0d8ecd52ad831df9967f1f2309c90a65a9d789",
+        "sha256_in_prefix": "628c1d4a9f10c2f61355c9212f0d8ecd52ad831df9967f1f2309c90a65a9d789",
+        "size_in_bytes": 1535
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "bed3c9dfc5d6fecc5dd6db960dbc62e072a0487fd20cabcb0d8be3f0f74e125c",
+        "sha256_in_prefix": "bed3c9dfc5d6fecc5dd6db960dbc62e072a0487fd20cabcb0d8be3f0f74e125c",
+        "size_in_bytes": 126
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "400ea3fca4e70451c6d673bb7dac1d5311dfdb519ef1be293d1cf49c282faaa0",
+        "sha256_in_prefix": "400ea3fca4e70451c6d673bb7dac1d5311dfdb519ef1be293d1cf49c282faaa0",
+        "size_in_bytes": 356
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/__pycache__/_version.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "dfdb2f472682947ba4c492dc00e3fa8e1bbc8c948f9c2ee62fae95e351ab2be3",
+        "sha256_in_prefix": "dfdb2f472682947ba4c492dc00e3fa8e1bbc8c948f9c2ee62fae95e351ab2be3",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/__pycache__/nbserver.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "366ebf57326d43f1305c0847d17ae34843258ea76b2160f9d6eacf585ca926e1",
+        "sha256_in_prefix": "366ebf57326d43f1305c0847d17ae34843258ea76b2160f9d6eacf585ca926e1",
+        "size_in_bytes": 7233
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/__pycache__/shim.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "46d5ccf2644b47b4bbf07b9520361116c3793c6c940034936c3dbd8c2debf306",
+        "sha256_in_prefix": "46d5ccf2644b47b4bbf07b9520361116c3793c6c940034936c3dbd8c2debf306",
+        "size_in_bytes": 12049
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/__pycache__/traits.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "231ed65837d7abb6ae77ab2d47e501e8c314325e0f8e35fe0a73bfad59f7a9e3",
+        "sha256_in_prefix": "231ed65837d7abb6ae77ab2d47e501e8c314325e0f8e35fe0a73bfad59f7a9e3",
+        "size_in_bytes": 7455
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/_version.py",
+        "path_type": "hardlink",
+        "sha256": "b8c9ad03860703de5e8ba29f679e58a56c61ff7ce1a6eafa040af8156f0cb115",
+        "sha256_in_prefix": "b8c9ad03860703de5e8ba29f679e58a56c61ff7ce1a6eafa040af8156f0cb115",
+        "size_in_bytes": 55
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/nbserver.py",
+        "path_type": "hardlink",
+        "sha256": "82541b345155acc1bc5bc01e98e4bde4affacfc116c2c14ff67a23d66eb69ea4",
+        "sha256_in_prefix": "82541b345155acc1bc5bc01e98e4bde4affacfc116c2c14ff67a23d66eb69ea4",
+        "size_in_bytes": 5189
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/shim.py",
+        "path_type": "hardlink",
+        "sha256": "8001501da634d5e4c6a326e3fb5119542bed86116496bc7773916e219c2d7065",
+        "sha256_in_prefix": "8001501da634d5e4c6a326e3fb5119542bed86116496bc7773916e219c2d7065",
+        "size_in_bytes": 11718
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/__pycache__/__init__.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "4a193b0fe1007fce36b2d76bf1a156f8e60cb4c75559317cd77441af69102a92",
+        "sha256_in_prefix": "4a193b0fe1007fce36b2d76bf1a156f8e60cb4c75559317cd77441af69102a92",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/__pycache__/mockextension.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "0cfb34866556d7c35b277f66622831ebfb50d2ee63cdf7de7f767ba54cd91570",
+        "sha256_in_prefix": "0cfb34866556d7c35b277f66622831ebfb50d2ee63cdf7de7f767ba54cd91570",
+        "size_in_bytes": 1302
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/__pycache__/test_extension.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "d589a29290543e58b31e499d722d5acde58f6f6273404de4046df0a660925569",
+        "sha256_in_prefix": "d589a29290543e58b31e499d722d5acde58f6f6273404de4046df0a660925569",
+        "size_in_bytes": 5043
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/confs/__pycache__/jupyter_my_ext_config.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "c9126f99752f6cd3b47ce8a1e3fd3a79f3db1d64f2671d99513f6e4061cf301a",
+        "sha256_in_prefix": "c9126f99752f6cd3b47ce8a1e3fd3a79f3db1d64f2671d99513f6e4061cf301a",
+        "size_in_bytes": 243
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/confs/__pycache__/jupyter_notebook_config.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "56f75786607360280befbe6b6f9032722d386de3ab3a1853a79a725b9eca78a2",
+        "sha256_in_prefix": "56f75786607360280befbe6b6f9032722d386de3ab3a1853a79a725b9eca78a2",
+        "size_in_bytes": 352
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/confs/__pycache__/jupyter_server_config.cpython-311.pyc",
+        "path_type": "hardlink",
+        "sha256": "a8d91172f79b935b75bb69352a5ccd4cfea570d29257d09516eb4ff3e916b795",
+        "sha256_in_prefix": "a8d91172f79b935b75bb69352a5ccd4cfea570d29257d09516eb4ff3e916b795",
+        "size_in_bytes": 240
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/confs/jupyter_my_ext_config.py",
+        "path_type": "hardlink",
+        "sha256": "a6503a4e172e6fdb7adc607efdf88d63fc9865310ae573b83c971da4e8fea868",
+        "sha256_in_prefix": "a6503a4e172e6fdb7adc607efdf88d63fc9865310ae573b83c971da4e8fea868",
+        "size_in_bytes": 31
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/confs/jupyter_notebook_config.py",
+        "path_type": "hardlink",
+        "sha256": "5f0781fd3530fe82e5ebc729efbb19abc8a57c137575cc2f6f359fe96e260320",
+        "sha256_in_prefix": "5f0781fd3530fe82e5ebc729efbb19abc8a57c137575cc2f6f359fe96e260320",
+        "size_in_bytes": 105
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/confs/jupyter_server_config.py",
+        "path_type": "hardlink",
+        "sha256": "6959b13db400322afef37053090868e9d4f2f246ba6ed1e5dd0e0b1e78610f5f",
+        "sha256_in_prefix": "6959b13db400322afef37053090868e9d4f2f246ba6ed1e5dd0e0b1e78610f5f",
+        "size_in_bytes": 24
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/mockextension.py",
+        "path_type": "hardlink",
+        "sha256": "907fe938e123e77b942d3318fdef85870435fe1465fa35704c1aec53fd18bdb1",
+        "sha256_in_prefix": "907fe938e123e77b942d3318fdef85870435fe1465fa35704c1aec53fd18bdb1",
+        "size_in_bytes": 850
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/tests/test_extension.py",
+        "path_type": "hardlink",
+        "sha256": "6251d1a26ff383b58680ae038e649f1db1ff8c133adfa7021303422d95b2804f",
+        "sha256_in_prefix": "6251d1a26ff383b58680ae038e649f1db1ff8c133adfa7021303422d95b2804f",
+        "size_in_bytes": 3850
+      },
+      {
+        "_path": "lib/python3.11/site-packages/notebook_shim/traits.py",
+        "path_type": "hardlink",
+        "sha256": "17eb42dab0ca55cff2679f19af41135fefc8c593d88c872f3d3e7950b2f42d1a",
+        "sha256_in_prefix": "17eb42dab0ca55cff2679f19af41135fefc8c593d88c872f3d3e7950b2f42d1a",
+        "size_in_bytes": 5600
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "61ac8946056e2725a3a5f14777e0f71df4b378ab415fb53fc03721d0fb7e041f",
+  "size": 26721,
+  "subdir": "osx-arm64",
+  "timestamp": 1677921317695,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/notebook-shim-0.2.2-py311hca03da5_0.conda",
+  "version": "0.2.2"
+}
