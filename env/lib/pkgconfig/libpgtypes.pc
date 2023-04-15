@@ -1,9 +1,0 @@
-Name: libpgtypes
-Description: PostgreSQL libpgtypes library
-Url: http://www.postgresql.org/
-Version: 12.9
-Requires: 
-Requires.private: 
-Cflags: -I/Users/istiakmorsalin/iOffice/embedding-search/env/include
-Libs: -L/Users/istiakmorsalin/iOffice/embedding-search/env/lib -lpgtypes
-Libs.private: -L/Users/istiakmorsalin/iOffice/embedding-search/env/lib -lpgcommon -lpgport -lm

@@ -1,9 +1,0 @@
-Name: libecpg_compat
-Description: PostgreSQL libecpg_compat library
-Url: http://www.postgresql.org/
-Version: 12.9
-Requires: 
-Requires.private: libecpg libpgtypes
-Cflags: -I/Users/istiakmorsalin/iOffice/embedding-search/env/include
-Libs: -L/Users/istiakmorsalin/iOffice/embedding-search/env/lib -lecpg_compat
-Libs.private: -L/Users/istiakmorsalin/iOffice/embedding-search/env/lib -lpgcommon -lpgport -lpq -lm
