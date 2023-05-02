@@ -1,0 +1,12 @@
+git+https://github.com/monstar-lab-bd/deepface-apple-silicon-python
+scikit-learn
+numpy
+tqdm
+torchvision
+torch
+Pillow
+redis
+pandas
+pickle4
+img2vec-pytorch
+img2vec
