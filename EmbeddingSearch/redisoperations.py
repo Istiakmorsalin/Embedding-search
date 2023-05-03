@@ -3,7 +3,6 @@ from redis import Redis
 class RedisConnector:
 
     def connect(self): 
-        print("Load Amazon Product and Image metadata")
         #Load Product data and truncate long text fields
         host = '127.0.0.1'
         port = 6379
