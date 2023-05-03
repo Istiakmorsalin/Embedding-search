@@ -1,8 +1,11 @@
 from dataloader import DataLoader
+from embeddingsearch import EmbeddingSearch
 
 def main():
     dataloader = DataLoader()
-    dataloader.build_index()
+    embedding_search = EmbeddingSearch()
+    img2vec_dict = dataloader.build_index()
+    print(type(img2vec_dict))
     
 if __name__ == '__main__':
     main()
